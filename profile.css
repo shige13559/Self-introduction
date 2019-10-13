@@ -1,0 +1,15 @@
+body{
+	background-image: url(http://earth.publicdomainq.net/201701/12o/publicdomainq-0004816ececem.png);
+	background-size: cover;
+	background-attachment: fixed;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-color: 
+	}
+
+.header{
+	height: 50px;
+	background-color: red;
+	justify-content: space-between;
+	
+}
